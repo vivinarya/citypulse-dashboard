@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "pothole-1",
+      "description": "A large pothole on Main Street.",
+      "imageUrl": "https://picsum.photos/seed/pothole1/600/400",
+      "imageHint": "pothole road"
+    },
+    {
+      "id": "streetlight-1",
+      "description": "Broken streetlight at the park entrance.",
+      "imageUrl": "https://picsum.photos/seed/streetlight1/600/400",
+      "imageHint": "broken streetlight"
+    },
+    {
+      "id": "sanitation-1",
+      "description": "Overflowing trash can on 2nd Ave.",
+      "imageUrl": "https://picsum.photos/seed/sanitation1/600/400",
+      "imageHint": "overflowing trash"
+    },
+    {
+      "id": "drain-1",
+      "description": "Blocked storm drain causing flooding.",
+      "imageUrl": "https://picsum.photos/seed/drain1/600/400",
+      "imageHint": "blocked drain"
+    },
+    {
+      "id": "vandalism-1",
+      "description": "Graffiti on a public wall.",
+      "imageUrl": "https://picsum.photos/seed/vandalism1/600/400",
+      "imageHint": "graffiti wall"
+    },
+    {
+      "id": "obstruction-1",
+      "description": "Fallen tree blocking the bike path.",
+      "imageUrl": "https://picsum.photos/seed/obstruction1/600/400",
+      "imageHint": "fallen tree"
+    }
+  ]
+}
