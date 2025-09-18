@@ -1,6 +1,6 @@
 # CityFix Dashboard
 
-project ppt-[Uploading Presentation - CityFix – Building Smarter Cities, One Report at a Time.pdf…]()
+project ppt in the source root
 
 
 CityFix is a modern, intelligent SaaS platform designed to solve the deep-rooted problem of civic issue management in urban areas. It provides municipal corporations and city officials with a centralized command center to track, manage, and resolve citizen-reported issues like potholes, water logging, garbage disposal, and broken streetlights.
